@@ -4,7 +4,7 @@ Aspiring Software Engineer focused on **Backend Engineering & Distributed System
 
 - 🎓 B.Tech CSE, Institute of Engineering & Management (IEM), Kolkata — Class of 2028
 - 🏆 Finalist, Meta PyTorch OpenEnv Hackathon (Top 800 out of 71,000+)
-- 📊 91.38 leaderboard score, Flipkart GRiD Lockdown 2.0
+- 📊 91.38 leaderboard score, Flipkart GRiD Lock 2.0
 - 💻 275+ problems solved on [LeetCode](https://leetcode.com/princechak2345/)
 
 ---
